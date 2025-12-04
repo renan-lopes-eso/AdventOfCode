@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EntryPoint/EntryPoint.csproj" />
+  <Project Path="Solutions2025/Solutions2025.csproj" Id="8aaf3b8f-e07c-4f95-a5da-0f4874fc5c37" />
+  <Project Path="PerformanceBenchmark/PerformanceBenchmark.csproj" />  Project Path="EntryPoint/EntryPoint.csproj" />  Project Path="Solutions2025/Solutions2025.csproj" Id="8aaf3b8f-e07c-4f95-a5da-0f4874fc5c37" />
+  <Project Path="Utilities/Utilities.csproj" Id="3f327325-1f58-4fd5-ae2a-af9edd6f7a95" />
+</Solution>
